@@ -1,0 +1,10 @@
+name: shinystockapp
+title:
+username:
+account: jnwong
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2666933
+bundleId: 3511361
+url: https://jnwong.shinyapps.io/shinystockapp/
+when: 1597330312.77103
