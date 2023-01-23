@@ -4,7 +4,8 @@ username:
 account: jnwong
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
-appId: 2666933
-bundleId: 3511361
+appId: 8097382
+bundleId: 6761836
 url: https://jnwong.shinyapps.io/shinystockapp/
-when: 1597330312.77103
+when: 1674432146.84113
+lastSyncTime: 1674432146.84115
